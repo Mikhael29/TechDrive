@@ -17,7 +17,7 @@
             <input type="password" name="senha" placeholder="Senha"><br>
 <br>
             <button type="submit">Acessar</button>
-            <br>
+
         </form>
     </div>
 </body>
